@@ -4,3 +4,6 @@
 **This is bold text**
 -Item one
 -Item two
+# This is a Heading 1
+## This is a Heading 1
+### This is a Heading 3
